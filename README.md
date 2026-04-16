@@ -21,6 +21,7 @@ Minecraft is a trademark of Mojang Studios and Microsoft. Hypixel is a trademark
 You are allowed to:
 - Use this resource pack in-game
 - Modify it for personal use
+
 You are NOT allowed to:
 - Reupload or redistribute this pack as your own
 - Sell this pack or any modified version
