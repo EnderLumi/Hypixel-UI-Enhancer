@@ -1,4 +1,4 @@
-# Hypixel-UI-Enhancer
+# Hypixel UI Enhancer
 ### About
 This project is a fan-made Minecraft resource pack and is intended to comply with Minecraft’s Terms of Use. All Minecraft assets remain the property of Mojang Studios and Microsoft.
 The pack is designed for Minecraft Java Edition and is commonly used for PvP and Hypixel gameplay.
