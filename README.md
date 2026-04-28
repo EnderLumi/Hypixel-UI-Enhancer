@@ -29,3 +29,36 @@ You are NOT allowed to:
 
 ## Notes
 This is a fan-made project created for the Minecraft community. It is not an official product of Mojang Studios, Microsoft, or Hypixel.
+
+
+## Edit your own Pack
+To customize the texture pack to your liking, you can use my Python script. It makes working with CIT easier, especially when dealing with the maps. (You should have some prior experience with Minecraft texture packs, otherwise it will be difficult to understand)
+### Setup
+First you need to clone the repository:
+```bash
+git clone https://github.com/EnderLumi/Hypixel-UI-Enhancer.git
+```
+Use a virtual environment to run this project
+```bash
+cd /Path/to/Hypixel-UI-Enhancer
+```
+Create a Virtual environment and install the requirements
+```bash
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+python -m pip install Pillow PySide6
+```
+To Run the script, type:
+```bash
+source /Path/to/Hypixel-UI-Enhancer/.venv/bin/activate
+python app.py
+```
+
+> **Note**
+> On Linux and macOS, you may need to use `python3` instead of `python`.
+
+### Add to Minecraft
+To use it in Minecraft, you can now take the `cit` folder inside the repository and copy it in the texture pack under `Hypixel-UI-Enhancer/assets/minecraft/mcpatcher/cit`.
+
+Now all you have to do is place the texture pack in the Minecraft resourcepacks folder.
