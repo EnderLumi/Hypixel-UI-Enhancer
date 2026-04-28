@@ -1,0 +1,2045 @@
+{
+  "version": 2,
+  "entries": [
+    {
+      "name": "Acropolis",
+      "picture_name": "quartz_pillar",
+      "slug": "acropolis",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/acropolis/acropolis.png",
+      "favorite_image": "cit/maps/maps_fav/acropolis/acropolis.png",
+      "created_at": "2026-04-21T20:12:57"
+    },
+    {
+      "name": "Aetius",
+      "picture_name": "andesite",
+      "slug": "aetius",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/aetius/aetius.png",
+      "favorite_image": "cit/maps/maps_fav/aetius/aetius.png",
+      "created_at": "2026-04-21T20:12:39"
+    },
+    {
+      "name": "Airshow",
+      "picture_name": "white_wool",
+      "slug": "airshow",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/airshow/airshow.png",
+      "favorite_image": "cit/maps/maps_fav/airshow/airshow.png",
+      "created_at": "2026-04-21T20:11:31"
+    },
+    {
+      "name": "Alaric",
+      "picture_name": "obsidian",
+      "slug": "alaric",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/alaric/alaric.png",
+      "favorite_image": "cit/maps/maps_fav/alaric/alaric.png",
+      "created_at": "2026-04-21T20:16:42"
+    },
+    {
+      "name": "Amazon",
+      "picture_name": "mossy_cobblestone",
+      "slug": "amazon",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/amazon/amazon.png",
+      "favorite_image": "cit/maps/maps_fav/amazon/amazon.png",
+      "created_at": "2026-04-21T20:17:00"
+    },
+    {
+      "name": "Ambush",
+      "picture_name": "grass_block",
+      "slug": "ambush",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/ambush/ambush.png",
+      "favorite_image": "cit/maps/maps_fav/ambush/ambush.png",
+      "created_at": "2026-04-21T20:17:50"
+    },
+    {
+      "name": "Antenna",
+      "picture_name": "smooth_stone",
+      "slug": "antenna",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/antenna/antenna.png",
+      "favorite_image": "cit/maps/maps_fav/antenna/antenna.png",
+      "created_at": "2026-04-21T20:12:12"
+    },
+    {
+      "name": "Apollo",
+      "picture_name": "end_stone",
+      "slug": "apollo",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/apollo/apollo.png",
+      "favorite_image": "cit/maps/maps_fav/apollo/apollo.png",
+      "created_at": "2026-04-21T20:18:05"
+    },
+    {
+      "name": "Aqil",
+      "picture_name": "smooth_sandstone",
+      "slug": "aqil",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/aqil/aqil.png",
+      "favorite_image": "cit/maps/maps_fav/aqil/aqil.png",
+      "created_at": "2026-04-21T20:18:32"
+    },
+    {
+      "name": "Aquarium",
+      "picture_name": "prismarine",
+      "slug": "aquarium",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/aquarium/aquarium.png",
+      "favorite_image": "cit/maps/maps_fav/aquarium/aquarium.png",
+      "created_at": "2026-04-21T20:20:16"
+    },
+    {
+      "name": "Arcade",
+      "picture_name": "white_concrete",
+      "slug": "arcade",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/arcade/arcade.png",
+      "favorite_image": "cit/maps/maps_fav/arcade/arcade.png",
+      "created_at": "2026-04-21T20:21:07"
+    },
+    {
+      "name": "Archway",
+      "picture_name": "cracked_stone_bricks",
+      "slug": "archway",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/archway/archway.png",
+      "favorite_image": "cit/maps/maps_fav/archway/archway.png",
+      "created_at": "2026-04-21T20:23:37"
+    },
+    {
+      "name": "Arid",
+      "picture_name": "red_sand",
+      "slug": "arid",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/arid/arid.png",
+      "favorite_image": "cit/maps/maps_fav/arid/arid.png",
+      "created_at": "2026-04-21T20:24:00"
+    },
+    {
+      "name": "Artemis",
+      "picture_name": "quartz_block",
+      "slug": "artemis",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/artemis/artemis.png",
+      "favorite_image": "cit/maps/maps_fav/artemis/artemis.png",
+      "created_at": "2026-04-21T20:26:01"
+    },
+    {
+      "name": "Ashfire",
+      "picture_name": "brown_concrete",
+      "slug": "ashfire",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/ashfire/ashfire.png",
+      "favorite_image": "cit/maps/maps_fav/ashfire/ashfire.png",
+      "created_at": "2026-04-21T20:32:35"
+    },
+    {
+      "name": "Ashore",
+      "picture_name": "lantern",
+      "slug": "ashore",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/ashore/ashore.png",
+      "favorite_image": "cit/maps/maps_fav/ashore/ashore.png",
+      "created_at": "2026-04-21T20:33:01"
+    },
+    {
+      "name": "Babylon",
+      "picture_name": "",
+      "slug": "Babylon",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Babylon/babylon.png",
+      "favorite_image": "cit/maps/maps_fav/Babylon/babylon.png",
+      "created_at": ""
+    },
+    {
+      "name": "Beeeee",
+      "picture_name": "",
+      "slug": "Beeeee",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Beeeee/beeeee.png",
+      "favorite_image": "cit/maps/maps_fav/Beeeee/beeeee.png",
+      "created_at": ""
+    },
+    {
+      "name": "Bio-Hazard",
+      "picture_name": "",
+      "slug": "Bio-Hazard",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Bio-Hazard/bio-hazard.png",
+      "favorite_image": "cit/maps/maps_fav/Bio-Hazard/bio-hazard.png",
+      "created_at": ""
+    },
+    {
+      "name": "Blitzen",
+      "picture_name": "",
+      "slug": "Blitzen",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Blitzen/blitzen.png",
+      "favorite_image": "cit/maps/maps_fav/Blitzen/blitzen.png",
+      "created_at": ""
+    },
+    {
+      "name": "Blizzard Bay",
+      "picture_name": "",
+      "slug": "Blizzard Bay",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Blizzard Bay/blizzard_bay.png",
+      "favorite_image": "cit/maps/maps_fav/Blizzard Bay/blizzard_bay.png",
+      "created_at": ""
+    },
+    {
+      "name": "Bloom",
+      "picture_name": "",
+      "slug": "Bloom",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Bloom/bloom.png",
+      "favorite_image": "cit/maps/maps_fav/Bloom/bloom.png",
+      "created_at": ""
+    },
+    {
+      "name": "Blossom",
+      "picture_name": "blue_concrete",
+      "slug": "blossom",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/blossom/blossom.png",
+      "favorite_image": "cit/maps/maps_fav/blossom/blossom.png",
+      "created_at": "2026-04-22T12:47:14"
+    },
+    {
+      "name": "Boardwalk",
+      "picture_name": "",
+      "slug": "Boardwalk",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Boardwalk/boardwalk.png",
+      "favorite_image": "cit/maps/maps_fav/Boardwalk/boardwalk.png",
+      "created_at": ""
+    },
+    {
+      "name": "Boletum",
+      "picture_name": "",
+      "slug": "Boletum",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Boletum/boletum.png",
+      "favorite_image": "cit/maps/maps_fav/Boletum/boletum.png",
+      "created_at": ""
+    },
+    {
+      "name": "Bucket Bay",
+      "picture_name": "",
+      "slug": "Bucket Bay",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Bucket Bay/bucket_bay.png",
+      "favorite_image": "cit/maps/maps_fav/Bucket Bay/bucket_bay.png",
+      "created_at": ""
+    },
+    {
+      "name": "Build Site",
+      "picture_name": "",
+      "slug": "Build Site",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Build Site/build_site.png",
+      "favorite_image": "cit/maps/maps_fav/Build Site/build_site.png",
+      "created_at": ""
+    },
+    {
+      "name": "Bunnywars",
+      "picture_name": "",
+      "slug": "Bunnywars",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Bunnywars/bunnywars.png",
+      "favorite_image": "cit/maps/maps_fav/Bunnywars/bunnywars.png",
+      "created_at": ""
+    },
+    {
+      "name": "Burrow",
+      "picture_name": "",
+      "slug": "Burrow",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Burrow/burrow.png",
+      "favorite_image": "cit/maps/maps_fav/Burrow/burrow.png",
+      "created_at": ""
+    },
+    {
+      "name": "Carapace",
+      "picture_name": "",
+      "slug": "Carapace",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Carapace/carapace.png",
+      "favorite_image": "cit/maps/maps_fav/Carapace/carapace.png",
+      "created_at": ""
+    },
+    {
+      "name": "Carrot Patch",
+      "picture_name": "",
+      "slug": "Carrot Patch",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Carrot Patch/carrot_patch.png",
+      "favorite_image": "cit/maps/maps_fav/Carrot Patch/carrot_patch.png",
+      "created_at": ""
+    },
+    {
+      "name": "Cascade",
+      "picture_name": "",
+      "slug": "Cascade",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Cascade/cascade.png",
+      "favorite_image": "cit/maps/maps_fav/Cascade/cascade.png",
+      "created_at": ""
+    },
+    {
+      "name": "Casita",
+      "picture_name": "",
+      "slug": "Casita",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Casita/casita.png",
+      "favorite_image": "cit/maps/maps_fav/Casita/casita.png",
+      "created_at": ""
+    },
+    {
+      "name": "Catalyst",
+      "picture_name": "",
+      "slug": "Catalyst",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Catalyst/catalyst.png",
+      "favorite_image": "cit/maps/maps_fav/Catalyst/catalyst.png",
+      "created_at": ""
+    },
+    {
+      "name": "Cauldron",
+      "picture_name": "",
+      "slug": "Cauldron",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Cauldron/cauldron.png",
+      "favorite_image": "cit/maps/maps_fav/Cauldron/cauldron.png",
+      "created_at": ""
+    },
+    {
+      "name": "Chained",
+      "picture_name": "",
+      "slug": "Chained",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Chained/chained.png",
+      "favorite_image": "cit/maps/maps_fav/Chained/chained.png",
+      "created_at": ""
+    },
+    {
+      "name": "Chalk Cliffs",
+      "picture_name": "",
+      "slug": "Chalk Cliffs",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Chalk Cliffs/chalk_cliffs.png",
+      "favorite_image": "cit/maps/maps_fav/Chalk Cliffs/chalk_cliffs.png",
+      "created_at": ""
+    },
+    {
+      "name": "Cliffside",
+      "picture_name": "",
+      "slug": "Cliffside",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Cliffside/cliffside.png",
+      "favorite_image": "cit/maps/maps_fav/Cliffside/cliffside.png",
+      "created_at": ""
+    },
+    {
+      "name": "Clutch",
+      "picture_name": "",
+      "slug": "Clutch",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Clutch/clutch.png",
+      "favorite_image": "cit/maps/maps_fav/Clutch/clutch.png",
+      "created_at": ""
+    },
+    {
+      "name": "Coastal",
+      "picture_name": "",
+      "slug": "Coastal",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Coastal/coastal.png",
+      "favorite_image": "cit/maps/maps_fav/Coastal/coastal.png",
+      "created_at": ""
+    },
+    {
+      "name": "Comet",
+      "picture_name": "",
+      "slug": "Comet",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Comet/comet.png",
+      "favorite_image": "cit/maps/maps_fav/Comet/comet.png",
+      "created_at": ""
+    },
+    {
+      "name": "Crimson",
+      "picture_name": "",
+      "slug": "Crimson",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Crimson/crimson.png",
+      "favorite_image": "cit/maps/maps_fav/Crimson/crimson.png",
+      "created_at": ""
+    },
+    {
+      "name": "Crogorm",
+      "picture_name": "",
+      "slug": "Crogorm",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Crogorm/crogorm.png",
+      "favorite_image": "cit/maps/maps_fav/Crogorm/crogorm.png",
+      "created_at": ""
+    },
+    {
+      "name": "Crypt",
+      "picture_name": "",
+      "slug": "Crypt",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Crypt/crypt.png",
+      "favorite_image": "cit/maps/maps_fav/Crypt/crypt.png",
+      "created_at": ""
+    },
+    {
+      "name": "Cryptic",
+      "picture_name": "",
+      "slug": "Cryptic",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Cryptic/cryptic.png",
+      "favorite_image": "cit/maps/maps_fav/Cryptic/cryptic.png",
+      "created_at": ""
+    },
+    {
+      "name": "Daolong",
+      "picture_name": "",
+      "slug": "Daolong",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Daolong/daolong.png",
+      "favorite_image": "cit/maps/maps_fav/Daolong/daolong.png",
+      "created_at": ""
+    },
+    {
+      "name": "Darkened",
+      "picture_name": "",
+      "slug": "Darkened",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Darkened/darkened.png",
+      "favorite_image": "cit/maps/maps_fav/Darkened/darkened.png",
+      "created_at": ""
+    },
+    {
+      "name": "Deadwood",
+      "picture_name": "",
+      "slug": "Deadwood",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Deadwood/deadwood.png",
+      "favorite_image": "cit/maps/maps_fav/Deadwood/deadwood.png",
+      "created_at": ""
+    },
+    {
+      "name": "Deposit",
+      "picture_name": "",
+      "slug": "Deposit",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Deposit/deposit.png",
+      "favorite_image": "cit/maps/maps_fav/Deposit/deposit.png",
+      "created_at": ""
+    },
+    {
+      "name": "Dockyard",
+      "picture_name": "",
+      "slug": "Dockyard",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Dockyard/dockyard.png",
+      "favorite_image": "cit/maps/maps_fav/Dockyard/dockyard.png",
+      "created_at": ""
+    },
+    {
+      "name": "Dragon Light",
+      "picture_name": "",
+      "slug": "Dragon Light",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Dragon Light/dragon_light.png",
+      "favorite_image": "cit/maps/maps_fav/Dragon Light/dragon_light.png",
+      "created_at": ""
+    },
+    {
+      "name": "Dragonstar",
+      "picture_name": "",
+      "slug": "Dragonstar",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Dragonstar/dragonstar.png",
+      "favorite_image": "cit/maps/maps_fav/Dragonstar/dragonstar.png",
+      "created_at": ""
+    },
+    {
+      "name": "Dreamgrove",
+      "picture_name": "",
+      "slug": "Dreamgrove",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Dreamgrove/dreamgrove.png",
+      "favorite_image": "cit/maps/maps_fav/Dreamgrove/dreamgrove.png",
+      "created_at": ""
+    },
+    {
+      "name": "Duye",
+      "picture_name": "",
+      "slug": "Duye",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Duye/duye.png",
+      "favorite_image": "cit/maps/maps_fav/Duye/duye.png",
+      "created_at": ""
+    },
+    {
+      "name": "Easter Basket",
+      "picture_name": "",
+      "slug": "Easter Basket",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Easter Basket/easter_basket.png",
+      "favorite_image": "cit/maps/maps_fav/Easter Basket/easter_basket.png",
+      "created_at": ""
+    },
+    {
+      "name": "Easter Garden",
+      "picture_name": "",
+      "slug": "Easter Garden",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Easter Garden/easter_garden.png",
+      "favorite_image": "cit/maps/maps_fav/Easter Garden/easter_garden.png",
+      "created_at": ""
+    },
+    {
+      "name": "Eastwood",
+      "picture_name": "",
+      "slug": "Eastwood",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Eastwood/eastwood.png",
+      "favorite_image": "cit/maps/maps_fav/Eastwood/eastwood.png",
+      "created_at": ""
+    },
+    {
+      "name": "Egg Factory",
+      "picture_name": "",
+      "slug": "Egg Factory",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Egg Factory/egg_factory.png",
+      "favorite_image": "cit/maps/maps_fav/Egg Factory/egg_factory.png",
+      "created_at": ""
+    },
+    {
+      "name": "Egg Hunt",
+      "picture_name": "",
+      "slug": "Egg Hunt",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Egg Hunt/egg_hunt.png",
+      "favorite_image": "cit/maps/maps_fav/Egg Hunt/egg_hunt.png",
+      "created_at": ""
+    },
+    {
+      "name": "Egg Run",
+      "picture_name": "",
+      "slug": "Egg Run",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Egg Run/egg_run.png",
+      "favorite_image": "cit/maps/maps_fav/Egg Run/egg_run.png",
+      "created_at": ""
+    },
+    {
+      "name": "Enchanted",
+      "picture_name": "",
+      "slug": "Enchanted",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Enchanted/enchanted.png",
+      "favorite_image": "cit/maps/maps_fav/Enchanted/enchanted.png",
+      "created_at": ""
+    },
+    {
+      "name": "Entangle",
+      "picture_name": "",
+      "slug": "Entangle",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Entangle/entangle.png",
+      "favorite_image": "cit/maps/maps_fav/Entangle/entangle.png",
+      "created_at": ""
+    },
+    {
+      "name": "Extinction",
+      "picture_name": "",
+      "slug": "Extinction",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Extinction/extinction.png",
+      "favorite_image": "cit/maps/maps_fav/Extinction/extinction.png",
+      "created_at": ""
+    },
+    {
+      "name": "Fang Outpost",
+      "picture_name": "",
+      "slug": "Fang Outpost",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Fang Outpost/fang_outpost.png",
+      "favorite_image": "cit/maps/maps_fav/Fang Outpost/fang_outpost.png",
+      "created_at": ""
+    },
+    {
+      "name": "Fireplace",
+      "picture_name": "",
+      "slug": "Fireplace",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Fireplace/fireplace.png",
+      "favorite_image": "cit/maps/maps_fav/Fireplace/fireplace.png",
+      "created_at": ""
+    },
+    {
+      "name": "Fort Doon",
+      "picture_name": "",
+      "slug": "Fort Doon",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Fort Doon/fort_doon.png",
+      "favorite_image": "cit/maps/maps_fav/Fort Doon/fort_doon.png",
+      "created_at": ""
+    },
+    {
+      "name": "Foxtrots",
+      "picture_name": "",
+      "slug": "Foxtrots",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Foxtrots/foxtrots.png",
+      "favorite_image": "cit/maps/maps_fav/Foxtrots/foxtrots.png",
+      "created_at": ""
+    },
+    {
+      "name": "Frogiton",
+      "picture_name": "",
+      "slug": "Frogiton",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Frogiton/frogiton.png",
+      "favorite_image": "cit/maps/maps_fav/Frogiton/frogiton.png",
+      "created_at": ""
+    },
+    {
+      "name": "Frost",
+      "picture_name": "",
+      "slug": "Frost",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Frost/frost.png",
+      "favorite_image": "cit/maps/maps_fav/Frost/frost.png",
+      "created_at": ""
+    },
+    {
+      "name": "Frosted",
+      "picture_name": "",
+      "slug": "Frosted",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Frosted/frosted.png",
+      "favorite_image": "cit/maps/maps_fav/Frosted/frosted.png",
+      "created_at": ""
+    },
+    {
+      "name": "Fruitbrawl",
+      "picture_name": "",
+      "slug": "Fruitbrawl",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Fruitbrawl/fruitbrawl.png",
+      "favorite_image": "cit/maps/maps_fav/Fruitbrawl/fruitbrawl.png",
+      "created_at": ""
+    },
+    {
+      "name": "Gardens",
+      "picture_name": "",
+      "slug": "Gardens",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Gardens/gardens.png",
+      "favorite_image": "cit/maps/maps_fav/Gardens/gardens.png",
+      "created_at": ""
+    },
+    {
+      "name": "Gateway",
+      "picture_name": "",
+      "slug": "Gateway",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Gateway/gateway.png",
+      "favorite_image": "cit/maps/maps_fav/Gateway/gateway.png",
+      "created_at": ""
+    },
+    {
+      "name": "Gelato",
+      "picture_name": "",
+      "slug": "Gelato",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Gelato/gelato.png",
+      "favorite_image": "cit/maps/maps_fav/Gelato/gelato.png",
+      "created_at": ""
+    },
+    {
+      "name": "Ghoulish",
+      "picture_name": "",
+      "slug": "Ghoulish",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Ghoulish/ghoulish.png",
+      "favorite_image": "cit/maps/maps_fav/Ghoulish/ghoulish.png",
+      "created_at": ""
+    },
+    {
+      "name": "Gingerbread",
+      "picture_name": "",
+      "slug": "Gingerbread",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Gingerbread/gingerbread.png",
+      "favorite_image": "cit/maps/maps_fav/Gingerbread/gingerbread.png",
+      "created_at": ""
+    },
+    {
+      "name": "Glacier",
+      "picture_name": "",
+      "slug": "Glacier",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Glacier/glacier.png",
+      "favorite_image": "cit/maps/maps_fav/Glacier/glacier.png",
+      "created_at": ""
+    },
+    {
+      "name": "Grave",
+      "picture_name": "",
+      "slug": "Grave",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Grave/grave.png",
+      "favorite_image": "cit/maps/maps_fav/Grave/grave.png",
+      "created_at": ""
+    },
+    {
+      "name": "Graveship",
+      "picture_name": "",
+      "slug": "Graveship",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Graveship/graveship.png",
+      "favorite_image": "cit/maps/maps_fav/Graveship/graveship.png",
+      "created_at": ""
+    },
+    {
+      "name": "Grotto",
+      "picture_name": "",
+      "slug": "Grotto",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Grotto/grotto.png",
+      "favorite_image": "cit/maps/maps_fav/Grotto/grotto.png",
+      "created_at": ""
+    },
+    {
+      "name": "Hanging Gardens",
+      "picture_name": "",
+      "slug": "Hanging Gardens",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Hanging Gardens/hanging_gardens.png",
+      "favorite_image": "cit/maps/maps_fav/Hanging Gardens/hanging_gardens.png",
+      "created_at": ""
+    },
+    {
+      "name": "Harvest",
+      "picture_name": "",
+      "slug": "Harvest",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Harvest/harvest.png",
+      "favorite_image": "cit/maps/maps_fav/Harvest/harvest.png",
+      "created_at": ""
+    },
+    {
+      "name": "Harvesting",
+      "picture_name": "",
+      "slug": "Harvesting",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Harvesting/harvesting.png",
+      "favorite_image": "cit/maps/maps_fav/Harvesting/harvesting.png",
+      "created_at": ""
+    },
+    {
+      "name": "Hell Temple",
+      "picture_name": "",
+      "slug": "Hell Temple",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Hell Temple/hell_temple.png",
+      "favorite_image": "cit/maps/maps_fav/Hell Temple/hell_temple.png",
+      "created_at": ""
+    },
+    {
+      "name": "Highland Peaks",
+      "picture_name": "",
+      "slug": "Highland Peaks",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Highland Peaks/highland_peaks.png",
+      "favorite_image": "cit/maps/maps_fav/Highland Peaks/highland_peaks.png",
+      "created_at": ""
+    },
+    {
+      "name": "Hollow",
+      "picture_name": "",
+      "slug": "Hollow",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Hollow/hollow.png",
+      "favorite_image": "cit/maps/maps_fav/Hollow/hollow.png",
+      "created_at": ""
+    },
+    {
+      "name": "Holmgang",
+      "picture_name": "",
+      "slug": "Holmgang",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Holmgang/holmgang.png",
+      "favorite_image": "cit/maps/maps_fav/Holmgang/holmgang.png",
+      "created_at": ""
+    },
+    {
+      "name": "Horizon",
+      "picture_name": "",
+      "slug": "Horizon",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Horizon/horizon.png",
+      "favorite_image": "cit/maps/maps_fav/Horizon/horizon.png",
+      "created_at": ""
+    },
+    {
+      "name": "Impere",
+      "picture_name": "",
+      "slug": "Impere",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Impere/impere.png",
+      "favorite_image": "cit/maps/maps_fav/Impere/impere.png",
+      "created_at": ""
+    },
+    {
+      "name": "Inca",
+      "picture_name": "",
+      "slug": "Inca",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Inca/inca.png",
+      "favorite_image": "cit/maps/maps_fav/Inca/inca.png",
+      "created_at": ""
+    },
+    {
+      "name": "Infinite",
+      "picture_name": "",
+      "slug": "Infinite",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Infinite/infinite.png",
+      "favorite_image": "cit/maps/maps_fav/Infinite/infinite.png",
+      "created_at": ""
+    },
+    {
+      "name": "Invasion",
+      "picture_name": "",
+      "slug": "Invasion",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Invasion/invasion.png",
+      "favorite_image": "cit/maps/maps_fav/Invasion/invasion.png",
+      "created_at": ""
+    },
+    {
+      "name": "Invicta",
+      "picture_name": "",
+      "slug": "Invicta",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Invicta/invicta.png",
+      "favorite_image": "cit/maps/maps_fav/Invicta/invicta.png",
+      "created_at": ""
+    },
+    {
+      "name": "Ironclad",
+      "picture_name": "",
+      "slug": "Ironclad",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Ironclad/ironclad.png",
+      "favorite_image": "cit/maps/maps_fav/Ironclad/ironclad.png",
+      "created_at": ""
+    },
+    {
+      "name": "Ivory Castle",
+      "picture_name": "",
+      "slug": "Ivory Castle",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Ivory Castle/ivory_castle.png",
+      "favorite_image": "cit/maps/maps_fav/Ivory Castle/ivory_castle.png",
+      "created_at": ""
+    },
+    {
+      "name": "Jurassic",
+      "picture_name": "",
+      "slug": "Jurassic",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Jurassic/jurassic.png",
+      "favorite_image": "cit/maps/maps_fav/Jurassic/jurassic.png",
+      "created_at": ""
+    },
+    {
+      "name": "Katsu",
+      "picture_name": "",
+      "slug": "Katsu",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Katsu/katsu.png",
+      "favorite_image": "cit/maps/maps_fav/Katsu/katsu.png",
+      "created_at": ""
+    },
+    {
+      "name": "Keep",
+      "picture_name": "",
+      "slug": "Keep",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Keep/keep.png",
+      "favorite_image": "cit/maps/maps_fav/Keep/keep.png",
+      "created_at": ""
+    },
+    {
+      "name": "Kubo",
+      "picture_name": "",
+      "slug": "Kubo",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Kubo/kubo.png",
+      "favorite_image": "cit/maps/maps_fav/Kubo/kubo.png",
+      "created_at": ""
+    },
+    {
+      "name": "Lectus",
+      "picture_name": "",
+      "slug": "Lectus",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Lectus/lectus.png",
+      "favorite_image": "cit/maps/maps_fav/Lectus/lectus.png",
+      "created_at": ""
+    },
+    {
+      "name": "Lighthouse",
+      "picture_name": "",
+      "slug": "Lighthouse",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Lighthouse/lighthouse.png",
+      "favorite_image": "cit/maps/maps_fav/Lighthouse/lighthouse.png",
+      "created_at": ""
+    },
+    {
+      "name": "Lightstone",
+      "picture_name": "",
+      "slug": "Lightstone",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Lightstone/lightstone.png",
+      "favorite_image": "cit/maps/maps_fav/Lightstone/lightstone.png",
+      "created_at": ""
+    },
+    {
+      "name": "Lions Temple",
+      "picture_name": "",
+      "slug": "Lions Temple",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Lions Temple/lions_temple.png",
+      "favorite_image": "cit/maps/maps_fav/Lions Temple/lions_temple.png",
+      "created_at": ""
+    },
+    {
+      "name": "Loft",
+      "picture_name": "",
+      "slug": "Loft",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Loft/loft.png",
+      "favorite_image": "cit/maps/maps_fav/Loft/loft.png",
+      "created_at": ""
+    },
+    {
+      "name": "Lost Temple",
+      "picture_name": "",
+      "slug": "Lost Temple",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Lost Temple/lost_temple.png",
+      "favorite_image": "cit/maps/maps_fav/Lost Temple/lost_temple.png",
+      "created_at": ""
+    },
+    {
+      "name": "Lotice",
+      "picture_name": "",
+      "slug": "Lotice",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Lotice/lotice.png",
+      "favorite_image": "cit/maps/maps_fav/Lotice/lotice.png",
+      "created_at": ""
+    },
+    {
+      "name": "Lotus",
+      "picture_name": "",
+      "slug": "Lotus",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Lotus/lotus.png",
+      "favorite_image": "cit/maps/maps_fav/Lotus/lotus.png",
+      "created_at": ""
+    },
+    {
+      "name": "Lucky Rush",
+      "picture_name": "",
+      "slug": "Lucky Rush",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Lucky Rush/lucky_rush.png",
+      "favorite_image": "cit/maps/maps_fav/Lucky Rush/lucky_rush.png",
+      "created_at": ""
+    },
+    {
+      "name": "Lunarhouse",
+      "picture_name": "",
+      "slug": "Lunarhouse",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Lunarhouse/lunarhous.png",
+      "favorite_image": "cit/maps/maps_fav/Lunarhouse/lunarhous.png",
+      "created_at": ""
+    },
+    {
+      "name": "Meadow",
+      "picture_name": "",
+      "slug": "Meadow",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Meadow/meadow.png",
+      "favorite_image": "cit/maps/maps_fav/Meadow/meadow.png",
+      "created_at": ""
+    },
+    {
+      "name": "Meso",
+      "picture_name": "",
+      "slug": "Meso",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Meso/meso.png",
+      "favorite_image": "cit/maps/maps_fav/Meso/meso.png",
+      "created_at": ""
+    },
+    {
+      "name": "Mirage",
+      "picture_name": "",
+      "slug": "Mirage",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Mirage/mirage.png",
+      "favorite_image": "cit/maps/maps_fav/Mirage/mirage.png",
+      "created_at": ""
+    },
+    {
+      "name": "Montipora",
+      "picture_name": "",
+      "slug": "Montipora",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Montipora/montipora.png",
+      "favorite_image": "cit/maps/maps_fav/Montipora/montipora.png",
+      "created_at": ""
+    },
+    {
+      "name": "Mortuus",
+      "picture_name": "",
+      "slug": "Mortuus",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Mortuus/mortuus.png",
+      "favorite_image": "cit/maps/maps_fav/Mortuus/mortuus.png",
+      "created_at": ""
+    },
+    {
+      "name": "Mosdalr",
+      "picture_name": "",
+      "slug": "Mosdalr",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Mosdalr/mosdalr.png",
+      "favorite_image": "cit/maps/maps_fav/Mosdalr/mosdalr.png",
+      "created_at": ""
+    },
+    {
+      "name": "Mystery",
+      "picture_name": "",
+      "slug": "Mystery",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Mystery/mystery.png",
+      "favorite_image": "cit/maps/maps_fav/Mystery/mystery.png",
+      "created_at": ""
+    },
+    {
+      "name": "Nebuc",
+      "picture_name": "",
+      "slug": "Nebuc",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Nebuc/nebuc.png",
+      "favorite_image": "cit/maps/maps_fav/Nebuc/nebuc.png",
+      "created_at": ""
+    },
+    {
+      "name": "Nostalgia",
+      "picture_name": "",
+      "slug": "Nostalgia",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Nostalgia/nostalgia.png",
+      "favorite_image": "cit/maps/maps_fav/Nostalgia/nostalgia.png",
+      "created_at": ""
+    },
+    {
+      "name": "Nutcracker",
+      "picture_name": "",
+      "slug": "Nutcracker",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Nutcracker/nutcracker.png",
+      "favorite_image": "cit/maps/maps_fav/Nutcracker/nutcracker.png",
+      "created_at": ""
+    },
+    {
+      "name": "Obelisk",
+      "picture_name": "",
+      "slug": "Obelisk",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Obelisk/obelisk.png",
+      "favorite_image": "cit/maps/maps_fav/Obelisk/obelisk.png",
+      "created_at": ""
+    },
+    {
+      "name": "Ominosity",
+      "picture_name": "",
+      "slug": "Ominosity",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Ominosity/ominosity.png",
+      "favorite_image": "cit/maps/maps_fav/Ominosity/ominosity.png",
+      "created_at": ""
+    },
+    {
+      "name": "Orbit",
+      "picture_name": "",
+      "slug": "Orbit",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Orbit/orbit.png",
+      "favorite_image": "cit/maps/maps_fav/Orbit/orbit.png",
+      "created_at": ""
+    },
+    {
+      "name": "Orchestra",
+      "picture_name": "",
+      "slug": "Orchestra",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Orchestra/orchestra.png",
+      "favorite_image": "cit/maps/maps_fav/Orchestra/orchestra.png",
+      "created_at": ""
+    },
+    {
+      "name": "Orchid",
+      "picture_name": "",
+      "slug": "Orchid",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Orchid/orchid.png",
+      "favorite_image": "cit/maps/maps_fav/Orchid/orchid.png",
+      "created_at": ""
+    },
+    {
+      "name": "Orientwood",
+      "picture_name": "",
+      "slug": "Orientwood",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Orientwood/orientwood.png",
+      "favorite_image": "cit/maps/maps_fav/Orientwood/orientwood.png",
+      "created_at": ""
+    },
+    {
+      "name": "Paladin",
+      "picture_name": "",
+      "slug": "Paladin",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Paladin/paladin.png",
+      "favorite_image": "cit/maps/maps_fav/Paladin/paladin.png",
+      "created_at": ""
+    },
+    {
+      "name": "Paradox",
+      "picture_name": "",
+      "slug": "Paradox",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Paradox/paradox.png",
+      "favorite_image": "cit/maps/maps_fav/Paradox/paradox.png",
+      "created_at": ""
+    },
+    {
+      "name": "Pavilion",
+      "picture_name": "",
+      "slug": "Pavilion",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Pavilion/pavilion.png",
+      "favorite_image": "cit/maps/maps_fav/Pavilion/pavilion.png",
+      "created_at": ""
+    },
+    {
+      "name": "Pernicious",
+      "picture_name": "",
+      "slug": "Pernicious",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Pernicious/pernicious.png",
+      "favorite_image": "cit/maps/maps_fav/Pernicious/pernicious.png",
+      "created_at": ""
+    },
+    {
+      "name": "Pharaoh",
+      "picture_name": "",
+      "slug": "Pharaoh",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Pharaoh/pharaoh.png",
+      "favorite_image": "cit/maps/maps_fav/Pharaoh/pharaoh.png",
+      "created_at": ""
+    },
+    {
+      "name": "Picnic",
+      "picture_name": "",
+      "slug": "Picnic",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Picnic/picnic.png",
+      "favorite_image": "cit/maps/maps_fav/Picnic/picnic.png",
+      "created_at": ""
+    },
+    {
+      "name": "Planet 98",
+      "picture_name": "",
+      "slug": "Planet 98",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Planet 98/planet_98.png",
+      "favorite_image": "cit/maps/maps_fav/Planet 98/planet_98.png",
+      "created_at": ""
+    },
+    {
+      "name": "Playground",
+      "picture_name": "",
+      "slug": "Playground",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Playground/playground.png",
+      "favorite_image": "cit/maps/maps_fav/Playground/playground.png",
+      "created_at": ""
+    },
+    {
+      "name": "Polemus",
+      "picture_name": "",
+      "slug": "Polemus",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Polemus/polemus.png",
+      "favorite_image": "cit/maps/maps_fav/Polemus/polemus.png",
+      "created_at": ""
+    },
+    {
+      "name": "Polygon",
+      "picture_name": "",
+      "slug": "Polygon",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Polygon/polygon.png",
+      "favorite_image": "cit/maps/maps_fav/Polygon/polygon.png",
+      "created_at": ""
+    },
+    {
+      "name": "Pool Party",
+      "picture_name": "",
+      "slug": "Pool Party",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Pool Party/pool_party.png",
+      "favorite_image": "cit/maps/maps_fav/Pool Party/pool_party.png",
+      "created_at": ""
+    },
+    {
+      "name": "Pumpkin Bay",
+      "picture_name": "",
+      "slug": "Pumpkin Bay",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Pumpkin Bay/pumpkin_bay.png",
+      "favorite_image": "cit/maps/maps_fav/Pumpkin Bay/pumpkin_bay.png",
+      "created_at": ""
+    },
+    {
+      "name": "Random Favorite",
+      "picture_name": "heart_with_dice",
+      "slug": "random_favorite",
+      "entry_type": "normal",
+      "item_id": "264",
+      "normal_image": "cit/other/random_favorite/random_favorite.png",
+      "favorite_image": "",
+      "created_at": "2026-04-21T20:11:21"
+    },
+    {
+      "name": "Random Map",
+      "picture_name": "dice",
+      "slug": "random_map",
+      "entry_type": "normal",
+      "item_id": "401",
+      "normal_image": "cit/other/random_map/random_map.png",
+      "favorite_image": "",
+      "created_at": "2026-04-21T20:10:52"
+    },
+    {
+      "name": "Raze",
+      "picture_name": "",
+      "slug": "Raze",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Raze/raze.png",
+      "favorite_image": "cit/maps/maps_fav/Raze/raze.png",
+      "created_at": ""
+    },
+    {
+      "name": "Relic",
+      "picture_name": "",
+      "slug": "Relic",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Relic/relic.png",
+      "favorite_image": "cit/maps/maps_fav/Relic/relic.png",
+      "created_at": ""
+    },
+    {
+      "name": "Retreat",
+      "picture_name": "",
+      "slug": "Retreat",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Retreat/retreat.png",
+      "favorite_image": "cit/maps/maps_fav/Retreat/retreat.png",
+      "created_at": ""
+    },
+    {
+      "name": "Rigged",
+      "picture_name": "",
+      "slug": "Rigged",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Rigged/rigged.png",
+      "favorite_image": "cit/maps/maps_fav/Rigged/rigged.png",
+      "created_at": ""
+    },
+    {
+      "name": "Rise",
+      "picture_name": "",
+      "slug": "Rise",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Rise/rise.png",
+      "favorite_image": "cit/maps/maps_fav/Rise/rise.png",
+      "created_at": ""
+    },
+    {
+      "name": "Rooftop",
+      "picture_name": "",
+      "slug": "Rooftop",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Rooftop/rooftop.png",
+      "favorite_image": "cit/maps/maps_fav/Rooftop/rooftop.png",
+      "created_at": ""
+    },
+    {
+      "name": "Rooted",
+      "picture_name": "",
+      "slug": "Rooted",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Rooted/rooted.png",
+      "favorite_image": "cit/maps/maps_fav/Rooted/rooted.png",
+      "created_at": ""
+    },
+    {
+      "name": "Ruins",
+      "picture_name": "",
+      "slug": "Ruins",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Ruins/ruins.png",
+      "favorite_image": "cit/maps/maps_fav/Ruins/ruins.png",
+      "created_at": ""
+    },
+    {
+      "name": "Salmon Bay",
+      "picture_name": "",
+      "slug": "Salmon Bay",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Salmon Bay/salmon_bay.png",
+      "favorite_image": "cit/maps/maps_fav/Salmon Bay/salmon_bay.png",
+      "created_at": ""
+    },
+    {
+      "name": "Sanctuary",
+      "picture_name": "",
+      "slug": "Sanctuary",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Sanctuary/sanctuary.png",
+      "favorite_image": "cit/maps/maps_fav/Sanctuary/sanctuary.png",
+      "created_at": ""
+    },
+    {
+      "name": "Sanctum",
+      "picture_name": "",
+      "slug": "Sanctum",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Sanctum/sanctum.png",
+      "favorite_image": "cit/maps/maps_fav/Sanctum/sanctum.png",
+      "created_at": ""
+    },
+    {
+      "name": "Sandcastle",
+      "picture_name": "",
+      "slug": "Sandcastle",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Sandcastle/sandcastle.png",
+      "favorite_image": "cit/maps/maps_fav/Sandcastle/sandcastle.png",
+      "created_at": ""
+    },
+    {
+      "name": "Santa's Rush",
+      "picture_name": "",
+      "slug": "Santa's Rush",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Santa's Rush/santa's_rush.png",
+      "favorite_image": "cit/maps/maps_fav/Santa's Rush/santa's_rush.png",
+      "created_at": ""
+    },
+    {
+      "name": "Scareshow",
+      "picture_name": "",
+      "slug": "Scareshow",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Scareshow/scareshow.png",
+      "favorite_image": "cit/maps/maps_fav/Scareshow/scareshow.png",
+      "created_at": ""
+    },
+    {
+      "name": "Scorched Sands",
+      "picture_name": "",
+      "slug": "Scorched Sands",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Scorched Sands/scorched_sands.png",
+      "favorite_image": "cit/maps/maps_fav/Scorched Sands/scorched_sands.png",
+      "created_at": ""
+    },
+    {
+      "name": "Screamway",
+      "picture_name": "",
+      "slug": "Screamway",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Screamway/screamway.png",
+      "favorite_image": "cit/maps/maps_fav/Screamway/screamway.png",
+      "created_at": ""
+    },
+    {
+      "name": "Seraph",
+      "picture_name": "",
+      "slug": "Seraph",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Seraph/seraph.png",
+      "favorite_image": "cit/maps/maps_fav/Seraph/seraph.png",
+      "created_at": ""
+    },
+    {
+      "name": "Serenity",
+      "picture_name": "",
+      "slug": "Serenity",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Serenity/serenity.png",
+      "favorite_image": "cit/maps/maps_fav/Serenity/serenity.png",
+      "created_at": ""
+    },
+    {
+      "name": "Shark Attack",
+      "picture_name": "",
+      "slug": "Shark Attack",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Shark Attack/shark_attack.png",
+      "favorite_image": "cit/maps/maps_fav/Shark Attack/shark_attack.png",
+      "created_at": ""
+    },
+    {
+      "name": "Siege",
+      "picture_name": "",
+      "slug": "Siege",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Siege/siege.png",
+      "favorite_image": "cit/maps/maps_fav/Siege/siege.png",
+      "created_at": ""
+    },
+    {
+      "name": "Silver Birch",
+      "picture_name": "",
+      "slug": "Silver Birch",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Silver Birch/silver_birch.png",
+      "favorite_image": "cit/maps/maps_fav/Silver Birch/silver_birch.png",
+      "created_at": ""
+    },
+    {
+      "name": "Sky Festival",
+      "picture_name": "",
+      "slug": "Sky Festival",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Sky Festival/sky_festival.png",
+      "favorite_image": "cit/maps/maps_fav/Sky Festival/sky_festival.png",
+      "created_at": ""
+    },
+    {
+      "name": "Sky Rise",
+      "picture_name": "",
+      "slug": "Sky Rise",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Sky Rise/sky_rise.png",
+      "favorite_image": "cit/maps/maps_fav/Sky Rise/sky_rise.png",
+      "created_at": ""
+    },
+    {
+      "name": "Slothmas",
+      "picture_name": "",
+      "slug": "Slothmas",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Slothmas/slothmas.png",
+      "favorite_image": "cit/maps/maps_fav/Slothmas/slothmas.png",
+      "created_at": ""
+    },
+    {
+      "name": "Slumber",
+      "picture_name": "",
+      "slug": "Slumber",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Slumber/slumber.png",
+      "favorite_image": "cit/maps/maps_fav/Slumber/slumber.png",
+      "created_at": ""
+    },
+    {
+      "name": "Snails",
+      "picture_name": "",
+      "slug": "Snails",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Snails/snails.png",
+      "favorite_image": "cit/maps/maps_fav/Snails/snails.png",
+      "created_at": ""
+    },
+    {
+      "name": "Snowkeep",
+      "picture_name": "",
+      "slug": "Snowkeep",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Snowkeep/snowkeep.png",
+      "favorite_image": "cit/maps/maps_fav/Snowkeep/snowkeep.png",
+      "created_at": ""
+    },
+    {
+      "name": "Snowy Square",
+      "picture_name": "",
+      "slug": "Snowy Square",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Snowy Square/snowy_square.png",
+      "favorite_image": "cit/maps/maps_fav/Snowy Square/snowy_square.png",
+      "created_at": ""
+    },
+    {
+      "name": "Solace",
+      "picture_name": "",
+      "slug": "Solace",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Solace/solace.png",
+      "favorite_image": "cit/maps/maps_fav/Solace/solace.png",
+      "created_at": ""
+    },
+    {
+      "name": "Speedway",
+      "picture_name": "",
+      "slug": "Speedway",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Speedway/speedway.png",
+      "favorite_image": "cit/maps/maps_fav/Speedway/speedway.png",
+      "created_at": ""
+    },
+    {
+      "name": "Springtide",
+      "picture_name": "",
+      "slug": "Springtide",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Springtide/springtide.png",
+      "favorite_image": "cit/maps/maps_fav/Springtide/springtide.png",
+      "created_at": ""
+    },
+    {
+      "name": "Steampumpkin",
+      "picture_name": "",
+      "slug": "Steampumpkin",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Steampumpkin/steampumpkin.png",
+      "favorite_image": "cit/maps/maps_fav/Steampumpkin/steampumpkin.png",
+      "created_at": ""
+    },
+    {
+      "name": "Steampunk",
+      "picture_name": "",
+      "slug": "Steampunk",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Steampunk/steampunk.png",
+      "favorite_image": "cit/maps/maps_fav/Steampunk/steampunk.png",
+      "created_at": ""
+    },
+    {
+      "name": "Stilted",
+      "picture_name": "",
+      "slug": "Stilted",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Stilted/stilted.png",
+      "favorite_image": "cit/maps/maps_fav/Stilted/stilted.png",
+      "created_at": ""
+    },
+    {
+      "name": "Stonekeep",
+      "picture_name": "",
+      "slug": "Stonekeep",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Stonekeep/stonekeep.png",
+      "favorite_image": "cit/maps/maps_fav/Stonekeep/stonekeep.png",
+      "created_at": ""
+    },
+    {
+      "name": "Sunflower",
+      "picture_name": "",
+      "slug": "Sunflower",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Sunflower/sunflower.png",
+      "favorite_image": "cit/maps/maps_fav/Sunflower/sunflower.png",
+      "created_at": ""
+    },
+    {
+      "name": "Swashbuckle",
+      "picture_name": "",
+      "slug": "Swashbuckle",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Swashbuckle/swashbuckle.png",
+      "favorite_image": "cit/maps/maps_fav/Swashbuckle/swashbuckle.png",
+      "created_at": ""
+    },
+    {
+      "name": "Sweet Wonderland",
+      "picture_name": "",
+      "slug": "Sweet Wonderland",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Sweet Wonderland/sweet_wonderland.png",
+      "favorite_image": "cit/maps/maps_fav/Sweet Wonderland/sweet_wonderland.png",
+      "created_at": ""
+    },
+    {
+      "name": "Symphonic",
+      "picture_name": "",
+      "slug": "Symphonic",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Symphonic/symphonic.png",
+      "favorite_image": "cit/maps/maps_fav/Symphonic/symphonic.png",
+      "created_at": ""
+    },
+    {
+      "name": "Temple",
+      "picture_name": "",
+      "slug": "Temple",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Temple/temple.png",
+      "favorite_image": "cit/maps/maps_fav/Temple/temple.png",
+      "created_at": ""
+    },
+    {
+      "name": "Tengshe",
+      "picture_name": "",
+      "slug": "Tengshe",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Tengshe/tengshe.png",
+      "favorite_image": "cit/maps/maps_fav/Tengshe/tengshe.png",
+      "created_at": ""
+    },
+    {
+      "name": "Terminal",
+      "picture_name": "",
+      "slug": "Terminal",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Terminal/terminal.png",
+      "favorite_image": "cit/maps/maps_fav/Terminal/terminal.png",
+      "created_at": ""
+    },
+    {
+      "name": "Terraced",
+      "picture_name": "",
+      "slug": "Terraced",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Terraced/terraced.png",
+      "favorite_image": "cit/maps/maps_fav/Terraced/terraced.png",
+      "created_at": ""
+    },
+    {
+      "name": "Tigris",
+      "picture_name": "",
+      "slug": "Tigris",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Tigris/tigris.png",
+      "favorite_image": "cit/maps/maps_fav/Tigris/tigris.png",
+      "created_at": ""
+    },
+    {
+      "name": "Tinselbury",
+      "picture_name": "",
+      "slug": "Tinselbury",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Tinselbury/tinselbury.png",
+      "favorite_image": "cit/maps/maps_fav/Tinselbury/tinselbury.png",
+      "created_at": ""
+    },
+    {
+      "name": "Toro",
+      "picture_name": "",
+      "slug": "Toro",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Toro/toro.png",
+      "favorite_image": "cit/maps/maps_fav/Toro/toro.png",
+      "created_at": ""
+    },
+    {
+      "name": "Toy Factory",
+      "picture_name": "",
+      "slug": "Toy Factory",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Toy Factory/toy_factory.png",
+      "favorite_image": "cit/maps/maps_fav/Toy Factory/toy_factory.png",
+      "created_at": ""
+    },
+    {
+      "name": "Treenan",
+      "picture_name": "",
+      "slug": "Treenan",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Treenan/treenan.png",
+      "favorite_image": "cit/maps/maps_fav/Treenan/treenan.png",
+      "created_at": ""
+    },
+    {
+      "name": "Trick or Yeet",
+      "picture_name": "",
+      "slug": "Trick or Yeet",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Trick or Yeet/trick_or_yeet.png",
+      "favorite_image": "cit/maps/maps_fav/Trick or Yeet/trick_or_yeet.png",
+      "created_at": ""
+    },
+    {
+      "name": "Turtle Cove",
+      "picture_name": "",
+      "slug": "Turtle Cove",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Turtle Cove/turtle_cove.png",
+      "favorite_image": "cit/maps/maps_fav/Turtle Cove/turtle_cove.png",
+      "created_at": ""
+    },
+    {
+      "name": "Tuzi",
+      "picture_name": "",
+      "slug": "Tuzi",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Tuzi/tuzi.png",
+      "favorite_image": "cit/maps/maps_fav/Tuzi/tuzi.png",
+      "created_at": ""
+    },
+    {
+      "name": "Unchained",
+      "picture_name": "",
+      "slug": "Unchained",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Unchained/unchained.png",
+      "favorite_image": "cit/maps/maps_fav/Unchained/unchained.png",
+      "created_at": ""
+    },
+    {
+      "name": "Unturned",
+      "picture_name": "",
+      "slug": "Unturned",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Unturned/unturned.png",
+      "favorite_image": "cit/maps/maps_fav/Unturned/unturned.png",
+      "created_at": ""
+    },
+    {
+      "name": "Urban Plaza",
+      "picture_name": "",
+      "slug": "Urban Plaza",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Urban Plaza/urban_plaza.png",
+      "favorite_image": "cit/maps/maps_fav/Urban Plaza/urban_plaza.png",
+      "created_at": ""
+    },
+    {
+      "name": "Usagi",
+      "picture_name": "",
+      "slug": "Usagi",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Usagi/usagi.png",
+      "favorite_image": "cit/maps/maps_fav/Usagi/usagi.png",
+      "created_at": ""
+    },
+    {
+      "name": "Varyth",
+      "picture_name": "",
+      "slug": "Varyth",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Varyth/varyth.png",
+      "favorite_image": "cit/maps/maps_fav/Varyth/varyth.png",
+      "created_at": ""
+    },
+    {
+      "name": "Vigilante",
+      "picture_name": "",
+      "slug": "Vigilante",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Vigilante/vigilante.png",
+      "favorite_image": "cit/maps/maps_fav/Vigilante/vigilante.png",
+      "created_at": ""
+    },
+    {
+      "name": "Waterfall",
+      "picture_name": "",
+      "slug": "Waterfall",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Waterfall/waterfall.png",
+      "favorite_image": "cit/maps/maps_fav/Waterfall/waterfall.png",
+      "created_at": ""
+    },
+    {
+      "name": "Whiskers",
+      "picture_name": "",
+      "slug": "Whiskers",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Whiskers/whiskers.png",
+      "favorite_image": "cit/maps/maps_fav/Whiskers/whiskers.png",
+      "created_at": ""
+    },
+    {
+      "name": "Winterland",
+      "picture_name": "",
+      "slug": "Winterland",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Winterland/winterland.png",
+      "favorite_image": "cit/maps/maps_fav/Winterland/winterland.png",
+      "created_at": ""
+    },
+    {
+      "name": "Wrapped Up",
+      "picture_name": "",
+      "slug": "Wrapped Up",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Wrapped Up/wrapped_up.png",
+      "favorite_image": "cit/maps/maps_fav/Wrapped Up/wrapped_up.png",
+      "created_at": ""
+    },
+    {
+      "name": "Yandi",
+      "picture_name": "",
+      "slug": "Yandi",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Yandi/yandi.png",
+      "favorite_image": "cit/maps/maps_fav/Yandi/yandi.png",
+      "created_at": ""
+    },
+    {
+      "name": "Yue",
+      "picture_name": "",
+      "slug": "Yue",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Yue/yue.png",
+      "favorite_image": "cit/maps/maps_fav/Yue/yue.png",
+      "created_at": ""
+    },
+    {
+      "name": "Zarzul",
+      "picture_name": "",
+      "slug": "Zarzul",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Zarzul/zarzul.png",
+      "favorite_image": "cit/maps/maps_fav/Zarzul/zarzul.png",
+      "created_at": ""
+    },
+    {
+      "name": "Zen Plaza",
+      "picture_name": "",
+      "slug": "Zen Plaza",
+      "entry_type": "map",
+      "item_id": "402",
+      "normal_image": "cit/maps/maps_nor/Zen Plaza/zen_plaza.png",
+      "favorite_image": "cit/maps/maps_fav/Zen Plaza/zen_plaza.png",
+      "created_at": ""
+    }
+  ]
+}
