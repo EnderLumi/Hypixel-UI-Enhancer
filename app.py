@@ -590,7 +590,13 @@ class MapRepository:
 
         existing_slugs = {e.slug for e in other_entries}
         desired_slug = slugify(name)
-        if desired_slug == original_slug or desired_slug not in existing_slugs:
+        slug_matches_original = desired_slug.casefold() == original_slug.casefold()
+        existing_slug_keys = {slug.casefold() for slug in existing_slugs}
+        if slug_matches_original:
+            # Keep original casing to avoid case-only rename issues on
+            # case-insensitive file systems (e.g. default macOS).
+            target_slug = original_slug
+        elif desired_slug.casefold() not in existing_slug_keys:
             target_slug = desired_slug
         else:
             target_slug = self._build_unique_slug(name, existing_slugs)
@@ -814,10 +820,11 @@ class MapRepository:
 
     def _build_unique_slug(self, name: str, existing_slugs: set[str]) -> str:
         base = slugify(name)
-        if base not in existing_slugs:
+        existing_keys = {slug.casefold() for slug in existing_slugs}
+        if base.casefold() not in existing_keys:
             return base
         index = 2
-        while f"{base}_{index}" in existing_slugs:
+        while f"{base}_{index}".casefold() in existing_keys:
             index += 1
         return f"{base}_{index}"
 

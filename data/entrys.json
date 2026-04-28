@@ -163,7 +163,7 @@
     },
     {
       "name": "Babylon",
-      "picture_name": "",
+      "picture_name": "sandstone",
       "slug": "Babylon",
       "entry_type": "map",
       "item_id": "402",
@@ -173,13 +173,13 @@
     },
     {
       "name": "Beeeee",
-      "picture_name": "",
+      "picture_name": "bee_nest",
       "slug": "Beeeee",
       "entry_type": "map",
       "item_id": "402",
-      "normal_image": "cit/maps/maps_nor/Beeeee/beeeee.png",
-      "favorite_image": "cit/maps/maps_fav/Beeeee/beeeee.png",
-      "created_at": ""
+      "normal_image": "cit/maps/maps_nor/Beeeee/Beeeee.png",
+      "favorite_image": "cit/maps/maps_fav/Beeeee/Beeeee.png",
+      "created_at": "2026-04-28T14:36:29"
     },
     {
       "name": "Bio-Hazard",
