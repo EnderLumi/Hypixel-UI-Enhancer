@@ -14,7 +14,7 @@ It includes modified default Minecraft textures as well as custom-made assets.
 4. Click `Open Pack Folder`
 5. Move the `.zip` file into the folder
 6. Enable the resource pack in-game and move it to the top of the list
-## Compatibility/Requirements
+### Compatibility/Requirements
 - Minecraft Version: 1.8.9
 - requires Optifine (Included in all major clients)
 
