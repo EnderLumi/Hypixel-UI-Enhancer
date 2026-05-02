@@ -50,7 +50,7 @@ To use it in Minecraft, you can now take the `cit` folder inside the repository 
 
 Now all you have to do is place the texture pack in the Minecraft resourcepacks folder.
 
-### Disclaimer
+## Disclaimer
 This project is not affiliated with, endorsed by, or sponsored by Mojang Studios, Microsoft, or Hypixel.
 Minecraft is a trademark of Mojang Studios and Microsoft. Hypixel is a trademark of Hypixel Inc. This resource pack is not officially associated with any of these companies.
 
