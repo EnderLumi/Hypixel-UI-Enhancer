@@ -6,9 +6,6 @@
 This project is a fan-made Minecraft resource pack and is intended to comply with Minecraft’s Terms of Use. All Minecraft assets remain the property of Mojang Studios and Microsoft.
 The pack is designed for Minecraft Java Edition and is commonly used for PvP and Hypixel gameplay.
 It includes modified default Minecraft textures as well as custom-made assets.
-### Disclaimer
-This project is not affiliated with, endorsed by, or sponsored by Mojang Studios, Microsoft, or Hypixel.
-Minecraft is a trademark of Mojang Studios and Microsoft. Hypixel is a trademark of Hypixel Inc. This resource pack is not officially associated with any of these companies.
 
 ## Installation:
 1. Download the resource pack `.zip` file (from Releases)
@@ -20,19 +17,6 @@ Minecraft is a trademark of Mojang Studios and Microsoft. Hypixel is a trademark
 ## Compatibility/Requirements
 - Minecraft Version: 1.8.9
 - requires Optifine (Included in all major clients)
-## Usage Terms
-You are allowed to:
-- Use this resource pack in-game
-- Modify it for personal use
-
-You are NOT allowed to:
-- Reupload or redistribute this pack as your own
-- Sell this pack or any modified version
-- Claim original creation of included assets
-
-## Notes
-This is a fan-made project created for the Minecraft community. It is not an official product of Mojang Studios, Microsoft, or Hypixel.
-
 
 ## Edit your own Pack
 To customize the texture pack to your liking, you can use my Python script. It makes working with CIT easier, especially when dealing with the maps. (You should have some prior experience with Minecraft texture packs, otherwise it will be difficult to understand)
@@ -65,3 +49,17 @@ python app.py
 To use it in Minecraft, you can now take the `cit` folder inside the repository and copy it in the texture pack under `Hypixel-UI-Enhancer/assets/minecraft/mcpatcher/cit`.
 
 Now all you have to do is place the texture pack in the Minecraft resourcepacks folder.
+
+### Disclaimer
+This project is not affiliated with, endorsed by, or sponsored by Mojang Studios, Microsoft, or Hypixel.
+Minecraft is a trademark of Mojang Studios and Microsoft. Hypixel is a trademark of Hypixel Inc. This resource pack is not officially associated with any of these companies.
+
+## Usage Terms
+You are allowed to:
+- Use this resource pack in-game
+- Modify it for personal use
+
+You are NOT allowed to:
+- Reupload or redistribute this pack as your own
+- Sell this pack or any modified version
+- Claim original creation of included assets
